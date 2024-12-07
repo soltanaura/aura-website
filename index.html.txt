@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aura - Empowering Innovation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #004aad;
+            color: #fff;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #f4f4f4;
+            padding: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #004aad;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #333;
+        }
+        section {
+            padding: 20px;
+        }
+        .hero {
+            background: #e4f1fe;
+            padding: 40px;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+        .cta {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta a {
+            padding: 10px 20px;
+            background: #004aad;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .cta a:hover {
+            background: #002c70;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Aura</h1>
+    <p>Empowering Innovation Through Technology</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#ventures">Ventures</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about" class="hero">
+    <h1>Welcome to Aura</h1>
+    <p>We specialize in Custom Software, Pre-Designed Services, and Venture Creation to drive business success.</p>
+    <div class="cta">
+        <a href="#services">Explore Our Services</a>
+    </div>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li><strong>Custom Software Development:</strong> Tailored solutions for business challenges.</li>
+        <li><strong>Pre-Designed Services:</strong> Plug-and-play tools like UniDash and Mulem.</li>
+        <li><strong>Venture Studio:</strong> Internally-developed fintech, AI, and proptech products.</li>
+    </ul>
+</section>
+
+<section id="ventures">
+    <h2>Our Ventures</h2>
+    <p>Explore innovative products developed in-house to meet emerging market needs.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:info@aura.com">info@aura.com</a></p>
+    <p>Phone: +966-555-5555</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Aura. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
